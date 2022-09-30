@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gregory</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Tastify](https://github.com/gregoryNatali/tastify)
+- 🔭 I’m currently working on [Tastify](https://github.com/gregoryNatali/tastify) and on [mahouLi](https://github.com/NomikuH8/mahouli)
 
 - 🌱 I’m currently learning **React.js, Next.js, Typescript, Prisma**
 
