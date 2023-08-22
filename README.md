@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorynatali&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gregorynatali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregorynatali&show_icons=true&theme=tokyonight&locale=en" alt="gregorynatali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=gregoryNatali&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&locale=en" alt="gregorynatali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregorynatali&theme=dark" alt="gregorynatali" /></p>
