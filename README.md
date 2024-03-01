@@ -33,8 +33,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorynatali&show_icons=true&theme=jolly&locale=en&layout=compact" alt="gregorynatali" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=gregoryNatali&count_private=true&include_all_commits=true&show_icons=true&theme=jolly&locale=en" alt="gregorynatali" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregorynatali&theme=jolly" alt="gregorynatali" /></p>
