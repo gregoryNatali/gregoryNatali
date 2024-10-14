@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gregory</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Achei Pneus**
+- 🔭 I’m currently working on **Sesterce**
 
 - 🌱 I’m currently learning **React.js, Next.js, Typescript, Prisma**
 
