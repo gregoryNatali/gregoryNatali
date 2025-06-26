@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Sesterce**
 
-- 🌱 I’m currently learning **React.js, Next.js, Typescript, Prisma**
+- ⚡ I’m focused on web development using **Next.js, NestJS and MongoDB**
 
 - 📫 How to reach me **gregory.natali4@gmail.com**
-
-- ⚡ Check out my Projects [mahouLi](https://github.com/gregoryNatali/mahouli) and [meats](https://github.com/gregoryNatali/meats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
