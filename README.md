@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gregory</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Sesterce**
-
 - ⚡ I’m focused on web development using **Next.js, NestJS and MongoDB**
 
 - 📫 How to reach me **gregory.natali4@gmail.com**
